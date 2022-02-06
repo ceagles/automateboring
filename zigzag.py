@@ -1,4 +1,3 @@
-#does this work
 import time, sys
 indent = 0 #How many spaced to indent
 indentIncreasing = True # Whether the indentation is increasing or not
